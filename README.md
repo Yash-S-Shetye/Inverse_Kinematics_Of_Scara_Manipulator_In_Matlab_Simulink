@@ -9,7 +9,7 @@ Steps to run simulation for both parts -
 
 1.) Copy all the files in one folder.
 
-2.) Change location address of the mat file - "kinematic_traj.mat" in the init file.
+2.) Change location address of the mat file - "kinematic_traj.mat" in the init file to wherever the file is placed.
 
 3.) Run the init file in matlab.
 

@@ -10,4 +10,4 @@ Steps to run simulation -
 
 4.) To visualize the results, run the visualize_results.m file
 
-Repeat the same process for part 2 which has Simulation of inverse kinematics of a scara manipulator using jacobian pseudo-inverse.
+Repeat the same process for part 2 which has Simulation of inverse kinematics of a scara manipulator using jacobian pseudo-inverse. 

@@ -1,15 +1,33 @@
 # Inverse_Kinematics_Of_Scara_Manipulator_In_Matlab_Simulink
 
-Simulation of inverse kinematics of a scara manipulator using jacobian inverse, jacobian transpose and jacobian pseudo inverse.
+Simulation of inverse kinematics of a scara manipulator in MATLAB Simulink software.
 
-Part 1 contains files for simulating inverse kinematics using jacobian inverse and jacobian transpose while Part 2 contains files
-for simulating inverse kinematics using jacobian pseudo-inverse.
+The project is divided into 3 folders having 2 folders in each of them - 
 
-Steps to run simulation for both parts - 
+1.) #Using jacobian Inverse, Transpose and Pseudo-inverse
 
-1.) Copy all the files in one folder.
+  a) Part 1 contains files for simulating inverse kinematics using jacobian inverse and jacobian transpose.
 
-2.) Change location address of the mat file - "kinematic_traj.mat" in the init file to wherever the file is placed.
+  b) Part 2 contains files for simulating inverse kinematics using jacobian pseudo-inverse.
+
+2.) #Using Second Order Algorithm
+
+   a)  Part 1 contains files for simulating inverse kinematics using second algorithm and jacobian inverse.
+   
+   b) Part 2 contains files for simulating inverse kinematics using second algorithm and jacobian pseudo-inverse.
+   
+3.) #Trajectory Generation and Inverse Dynamic Control
+
+    a) Part 1 contains files for generating trajectory for the scara manipulator.
+    
+    b) Part 2 contains file for simulating inverse dynamic control for scara manipulator.
+
+
+Steps to run simulation for all parts - 
+
+1.) Create Part 1 and Part 2 folders with all included files and the data mat file and put all in one folder.
+
+2.) For 1.) and 2.) change location address of the mat file - "kinematic_traj.mat" in the respective init files to wherever the file is placed on your desktop.
 
 3.) Run the init file in matlab.
 

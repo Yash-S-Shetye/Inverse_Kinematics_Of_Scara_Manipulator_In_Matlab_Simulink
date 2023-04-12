@@ -4,13 +4,13 @@ Simulation of inverse kinematics of a scara manipulator in MATLAB Simulink softw
 
 The project is divided into 3 folders having 2 folders in each of them - 
 
-# Using jacobian Inverse, Transpose and Pseudo-inverse
+# Jacobian Inverse, Transpose and Pseudo-inverse
 
 a) Part 1 contains files for simulating inverse kinematics using jacobian inverse and jacobian transpose.
 
 b) Part 2 contains files for simulating inverse kinematics using jacobian pseudo-inverse.
 
-# Using Second Order Algorithm
+# Second Order Algorithm
 
 a)  Part 1 contains files for simulating inverse kinematics using second algorithm and jacobian inverse.
    
